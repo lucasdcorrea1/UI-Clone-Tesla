@@ -5,7 +5,7 @@ UI Clone - Tesla
 <p align="center"><a href="https://tesla.com">Tesla Homepage</a> UI clone for study purposes.</p>
 
 <p align="center">
-  <a href="https://github.com/rocketseat-content/youtube-clone-tesla-homepage/graphs/contributors">
+  <a href="https://github.com/lucasdcorrea1/UI-Clone-Tesla/graphs/contributors">
     <img src="https://img.shields.io/github/contributors/rocketseat-content/youtube-clone-tesla-homepage?color=%236633cc&logoColor=%236633cc&style=flat" alt="Contributors">
   </a>
 </p>
